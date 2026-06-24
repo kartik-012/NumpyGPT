@@ -1,0 +1,6 @@
+{
+  "name": "NumPyGPT",
+  "description": "Interactive Transformer built from scratch (attention, backpropagation) generating tech startup quotes with live attention heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
