@@ -2,7 +2,6 @@
 
 Your intelligent partner for mastering NumPy! This AI-powered application, built with the Gemini API, helps you generate, understand, and debug NumPy code through a simple, conversational interface.
 
-This project was bootstrapped from [Google AI Studio](https://ai.studio/apps/3ab602b1-a4de-4f8c-9c60-bead8b9a0a98).
 
 <!-- You can add a screenshot or GIF of your application here -->
 <!-- ![App Screenshot](link-to-your-screenshot.png) -->
