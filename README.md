@@ -66,3 +66,4 @@ Open the local URL provided by the frontend server (usually http://localhost:517
 *   **Backend:** Express.js
 *   **AI:** Google Gemini API
 *   **Runtime:** Node.js 
+
