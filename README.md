@@ -13,6 +13,7 @@ Your intelligent partner for mastering NumPy! This AI-powered application, built
 *   **Interactive Chat:** A user-friendly interface for interacting with the AI.
 *   **Powered by Gemini:** Leverages Google's powerful Gemini model for accurate and context-aware responses.
 
+
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
