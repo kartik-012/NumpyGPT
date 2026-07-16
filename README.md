@@ -1,6 +1,8 @@
 # NumPyGPT  🐍🤖
 
+
 Your intelligent partner for mastering NumPy! This AI-powered application, built with the Gemini API, helps you generate, understand, and debug NumPy code through a simple, conversational interface.
+
 
 
 <!-- You can add a screenshot or GIF of your application here -->
